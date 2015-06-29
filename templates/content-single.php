@@ -196,8 +196,8 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
               <div class="adsfr">
                 <script type="text/javascript"><!--
                 google_ad_client = "ca-pub-1187873112185798";
-                /* exp1-300x250-1-posts-izquierda */
-                google_ad_slot = "4953062814";
+                /* exp1-300x250-1-posts-derecha */
+                google_ad_slot = "6429770694";
                 google_ad_width = 300;
                 google_ad_height = 250;
                 //-->
