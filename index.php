@@ -1,5 +1,5 @@
 <!--Sección inicial-->
-<!-- Empieza sección de DESTACADOS -->
+<!-- Empieza sección La de DESTACADOS  -->
 <div class="container">
   <div class="row title-section">
     <div class="col-sm-12">
