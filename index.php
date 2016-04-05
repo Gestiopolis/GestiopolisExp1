@@ -1,6 +1,6 @@
 <!--Sección inicial-->
 <!-- Empieza sección La de DESTACADOS  -->
-<div class="container">
+<div class="container dos">
   <div class="row title-section">
     <div class="col-sm-12">
       <h2>Se destacan</h2>
